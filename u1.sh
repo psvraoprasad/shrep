@@ -15,3 +15,4 @@ cd ..
 
 # create a manifest file listing the names of the zipped files
 unzip -l $folder_path/$zip_file_name > $manifest_file_name
+chmod +x u1.sh
